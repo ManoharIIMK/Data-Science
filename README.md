@@ -4,7 +4,8 @@ Lot of exercises were done on Python and R for learning and real time projects.
 
 Hope you will enjoy learning.
 
-Thank you
+Thank you,
+
 Manohar
 
 manohar20@yahoo.com
